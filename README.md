@@ -22,11 +22,15 @@ URL-http://35.244.37.83/
 Completed part of Assignment
 
 Build To-do application-Done
+
 Added application to git repository-Done
+
 Deploy into Google Compute Engine-Done
 
 Not completed part of Assignment
 
 Cloud SQL-Not completed
+
 Terraform Script-Not completed
+
 Cloud SQL Proxy-Not completed
