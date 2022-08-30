@@ -19,3 +19,12 @@ URL-http://35.244.37.83/
 3)Use delete option to remove the item
 ![image](https://user-images.githubusercontent.com/49017837/187248582-423217f3-58fb-4f87-a2cf-61087306a7b6.png)
 
+Completed part of Assignment
+Build To-do application-Done
+Added application to git repository-Done
+Deploy into Google Compute Engine-Done
+
+Not completed part of Assignment
+Cloud SQL-Not completed
+Terraform Script-Not completed
+Cloud SQL Proxy-Not completed
